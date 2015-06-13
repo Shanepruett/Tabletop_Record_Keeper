@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tabletop Record Keeper</string>
+
+    <string name="title_section1">Battle Tools</string>
+    <string name="title_section2">Character Details</string>
+    <string name="title_section3">Attributes/Saves</string>
+    <string name="title_section4">Skills/Proficiencies</string>
+    <string name="title_section5">Features/Traits</string>
+    <string name="title_section6">Equipment/Treasure</string>
+    <string name="title_section7">Spells</string>
+
+    <string name="navigation_drawer_open">Open Character Guide</string>
+    <string name="navigation_drawer_close">Close Character Guide</string>
+
+    <string name="action_example">Save</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_main_menu">Main Menu</string>
+    <string name="action_exit">Exit</string>
+
+    <string name="title_activity_starting">Tabletop Record Keeper1</string>
+
+    <string name="welcome">Welcome to Tabletop Record Keeper</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="detail_fragment_greeting">Your Character:</string>
+</resources>

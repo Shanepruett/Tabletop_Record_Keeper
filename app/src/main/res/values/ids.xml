@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Barbarian" type="id">Barbarian</item>
+    <item name="Bard" type="id">Bard</item>
+    <item name="Cleric" type="id">Cleric</item>
+    <item name="Druid" type="id">Druid</item>
+    <item name="Fighter" type="id">Fighter</item>
+    <item name="Monk" type="id">Monk</item>
+    <item name="Paladin" type="id">Paladin</item>
+    <item name="Ranger" type="id">Ranger</item>
+    <item name="Rogue" type="id">Rogue</item>
+    <item name="Sorcerer" type="id">Sorcerer</item>
+    <item name="Warlock" type="id">Warlock</item>
+    <item name="Wizard" type="id">Wizard</item>
+    <item name="TotalLevels" type="id">Character Level: </item>
+</resources>

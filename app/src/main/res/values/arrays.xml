@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="races">
+        <item>Dwarf</item>
+        <item>Elf</item>
+        <item>Halfling</item>
+        <item>Human</item>
+        <item>Dragonborn</item>
+        <item>Gnome</item>
+        <item>Half-Elf</item>
+        <item>Half-Orc</item>
+        <item>Tiefling</item>
+    </string-array>
+    <string-array name="classes">
+        <item>Classes:</item>
+        <item>Barbarian</item>
+        <item>Bard</item>
+        <item>Cleric</item>
+        <item>Druid</item>
+        <item>Fighter</item>
+        <item>Monk</item>
+        <item>Paladin</item>
+        <item>Ranger</item>
+        <item>Rogue</item>
+        <item>Sorcerer</item>
+        <item>Warlock</item>
+        <item>Wizard</item>
+    </string-array>
+    <string-array name="attributes">
+        <item>Strength</item>
+        <item>Dexterity</item>
+        <item>Constitution</item>
+        <item>Intelligence</item>
+        <item>Wisdom</item>
+        <item>Charisma</item>
+    </string-array>
+    <string-array name="alignments">
+        <item>Lawful Good (LG)</item>
+        <item>Neutral Good (NG)</item>
+        <item>Chaotic Good (CG)</item>
+        <item>Lawful Neutral (LN)</item>
+        <item>Neutral (N)</item>
+        <item>Chaotic Neutral (CN)</item>
+        <item>Lawful Evil (LE)</item>
+        <item>Neutral Evil (NE)</item>
+        <item>Chaotic Evil (CE)</item>
+    </string-array>
+</resources>
